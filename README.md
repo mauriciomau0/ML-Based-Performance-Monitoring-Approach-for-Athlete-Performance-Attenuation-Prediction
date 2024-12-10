@@ -10,8 +10,8 @@ This project is designed to be run within Google Colab. To get started:
 
 1. **Access the Notebook:** Click on the "Open in Colab" badge below to open the notebook directly in Google Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your_github_username>/<your_repository_name>/blob/main/Athlete_Ranking_Prediction.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q73segl1EtR1S-TfrhBhqi4bpcEh87od?usp=sharing)
 
-2. **Connect to Runtime:** In Colab, click on "Connect" in the top right corner to connect to a runtime environment.
+2. **Connect to Runtime:** In Colab, click "Connect" in the top right corner to connect to a runtime environment.
 
-3. **Run the Cells:** Execute the code cells in the notebook sequentially to load data, perform preprocessing, train models, and evaluate results. You can run a cell by clicking the play button next to it or by pressing `Shift+Enter`.
+3. **Run the Cells:** Execute the code cells in the notebook sequentially to load data, perform preprocessing, train models, and evaluate results. You can run a cell by clicking the play button next to it or pressing `Shift+Enter`.
